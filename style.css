@@ -1,0 +1,22 @@
+body {
+    display: flex;
+}
+h3 {
+    /* display: inline-block; */
+}
+input {
+    display: inline;
+}
+#boxOne {
+    /* display: "flex"; */
+    flex-direction: row;
+    width: 50%;
+    border: 5px solid black;
+}
+#boxTwo {
+    /* display: "flex"; */
+    flex-direction: row;
+    width: 50%;
+    border: 5px solid blue;
+}
+/* hello */
